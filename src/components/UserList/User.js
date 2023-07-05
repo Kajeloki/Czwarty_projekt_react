@@ -1,6 +1,8 @@
+import Card from "../UI/Card";
+
 const User = (props) =>{
-return <div>
-    <li>{props.name}, {props.age} lat</li>
-</div>
+return <li>{props.name}, {props.age} lat</li>
+
+
 }
 export default User;
