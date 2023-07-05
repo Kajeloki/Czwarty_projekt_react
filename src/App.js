@@ -11,7 +11,7 @@ function App() {
     // setEnteredUser(prevUser => {
     //   return [newUser, ...enteredUser];
     // })
-    setEnteredUser([newUser, ...enteredUser]);
+    setEnteredUser([...enteredUser,newUser]);
     
   };
   return (
