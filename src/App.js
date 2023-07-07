@@ -15,10 +15,10 @@ function App() {
     
   };
   return (
-    <div>
+    <>
       <UserForm onAddUser={AddUser} />
       <UserList newUserElement={enteredUser} />
-    </div>
+    </>
   );
 }
 
