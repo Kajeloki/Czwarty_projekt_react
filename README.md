@@ -11,7 +11,7 @@
   <summary>
     Click here to see general information about <b>Project</b>
   </summary>
-      This is my first React Project. Main idea was to create app to write down and control user expenses. I focus od the basic of React framework and started to work with GitHub.
+      In this project I focused on some crucial behind-the-scenes elements. Main goal was to do some practice with elements like portals, wrappers, React Fragments and refs.
 </details>
 
 ## Technologies
