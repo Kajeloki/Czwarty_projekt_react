@@ -11,7 +11,7 @@
   <summary>
     Click here to see general information about <b>Project</b>
   </summary>
-      In this project I focused on some crucial behind-the-scenes elements. Main goal was to do some practice with elements like portals, wrappers, React Fragments and refs.
+      In this project I focused on some crucial behind-the-scenes elements. Main goal was to do some practice with elements like portals, wrappers, React Fragments and refs. About project itself, it is simple app used to add some users to database (local in-code dynamic array) and display them on the screen with two informations - name and age of user. In case of some problems - like set age to 0 or value less than 0, not setting age or name at all - special, appropiate noticifacion will appear.
 </details>
 
 ## Technologies
