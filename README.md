@@ -57,7 +57,7 @@ The website includes:</br>
 <img width="75%" src="https://github.com/user-attachments/assets/81d09413-1d0f-4866-b823-a0d7baf17def"></br>
 
 Short demo of running app:</br>
-<img width="75%" src="https://github.com/user-attachments/assets/173fa2f5-d8c9-4358-ae43-70b7d2466f61">
+<img width="75%" src="https://github.com/user-attachments/assets/a6e70c97-25e3-4a0f-aae5-a3967acf4d02">
 
 ## Sources
 This project is based on a project from the <b>React - The Complete Guide 2024 (incl. Next.js, Redux)</b> course from Udemy.com
